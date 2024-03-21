@@ -1,0 +1,6 @@
+[submodule "git-react-front-end"]
+	path = git-react-front-end
+	url = https://github.com/swavyast/git-react-front-end
+[submodule "git-react-back-end"]
+	path = git-react-back-end
+	url = https://github.com/swavyast/git-react-back-end
