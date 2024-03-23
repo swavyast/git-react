@@ -4,7 +4,7 @@ Git-Manager Using React.js, REST API and Java
   * [Front-End](https://github.com/swavyast/git-react-front-end)
     * *Technologies used* : React.js, JSX, Bootstrap, ES6
   * [Back-End](https://github.com/swavyast/git-react-back-end)
-    * *Technologies used* : Java, REST API, Hibernate
+    * *Technologies used* : Java, REST API, Hibernate, Springboot, MongoDB
    
 ### Developed By <div><br>![Alt text][id]</div>
 
